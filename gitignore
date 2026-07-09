@@ -1,0 +1,14 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+
+# Node (only relevant if the audit tool ever gets npm dependencies)
+node_modules/
+npm-debug.log*
+
+# Misc
+*.log
